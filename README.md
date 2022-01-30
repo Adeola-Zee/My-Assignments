@@ -33,13 +33,13 @@ eHA Academy
         Thankfully, <em>we are born to learn.</em><br>
         <strong>Slowly. Surely. You stumble, slip, crawl, fall and fail and fall.</strong><br>
         Frustrating. Confusing. Trying. Struggling.<br>
-        Until one day, <em>you walk.</em><br>
+        <strong>Until one day,</strong> <em>you walk.</em><br>
         One foot in front of the other. One idea on top of the next.<br>
         Each wrong answer making your brain a little bit stronger.<br>
         Failing is just another word for growing. And you keep going.<br>
         <em>This. is. learning.</em><br>
         It’s not that you don’t get it. <br>
-        <strong>You just don’t get it, yet.</strong>
+        <em><strong>You just don’t get it, yet.</strong></em><br>
         Because the most beautiful, complex concepts in the whole universe<br>
         are built on basic ideas that anyone, anywhere can understand.<br>
         <em>Whoever you are, wherever you are.</em><br>
