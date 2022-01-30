@@ -50,3 +50,30 @@ eHA Academy
         </p>
     </body>
 </html>
+
+
+<!DOCTYPE HTML>
+
+<html>
+
+    <head>
+
+        <title>Challenge: Your learning list</title>
+
+        <meta charset="utf-8">
+
+    </head>
+
+    <body>
+        <h1>Weird but true facts about Adeola</h1>
+        <ol>
+            <li>I don't like cakes but I love baking for others</li>
+            <li>I eat all types of fruits except mangoes and pear</li>
+            <li>I am lactose intolerant but milk and ice-cream are my favourite</li>
+        </ol>
+
+
+    </body>
+
+</html>
+
